@@ -89,7 +89,7 @@ body {
 }
 
 /* Responsive styles */
-@media (max-width: 768px) {
+@media (max-width: 768em) {
   .QR-code-container {
     width: 100%;
     max-width: 320px;
