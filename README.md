@@ -12,13 +12,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./images/screenshot.png.png)
 
 
 
@@ -36,6 +36,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Chrome DevTools
+- Hosting
+  - vercel
 
 
 
@@ -62,7 +64,7 @@ This gave me a deeper insight on flex based layouts and an attention to detail.
 ## Author
 
 
-- Frontend Mentor - [@AyehDev](https://www.frontendmentor.io/profile/AyehDev)
+- Emmanuel - [@AyehDev](https://www.frontendmentor.io/profile/AyehDev)
 
 
 
